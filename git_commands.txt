@@ -1,0 +1,56 @@
+    1  git --version
+    2  exit
+    3  pwd
+    4  ls
+    5  exit
+    6  ls
+    7  ls a
+    8  ls -a
+    9  ls
+   10  python testing.py 
+   11  python3 testing.py
+   12  exit
+   13  ls
+   14  pwd
+   15  exit
+   16  ls
+   17  ls -a
+   18  code ~/practical/
+   19  python3 testing.py 
+   20  ls -l
+   21  rm testing.py 
+   22  git init
+   23  ls
+   24  ls -a
+   25  clear
+   26  git status
+   27  git add testing.py 
+   28  git status
+   29  git rm --cached testing.py 
+   30  git status
+   31  git add .
+   32  git status
+   33  git commit -m "added testing file"
+   34  git config --global user.name "Akash"
+   35  git config --global user.email "akashaws9889@gmail.com"
+   36  git config --list
+   37  git config --global user.name "Akash1"
+   38  git config --list
+   39  git config --global user.name "Akash"
+   40  git config --list
+   41  clear
+   42  git commit -m "added testing file"
+   43  git status
+   44  ls
+   45  rm testing.py 
+   46  ls
+   47  git restore testing.py
+   48  ls
+   49  git status
+   50  rm testing.py 
+   51  git status
+   52  ls
+   53  git restore testing.py
+   54  git status
+   55  ls
+   56  history

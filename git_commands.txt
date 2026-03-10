@@ -54,3 +54,11 @@
    54  git status
    55  ls
    56  history
+29  mkdir git-demo-new
+  130  cd git-demo-new/
+  131  git clone https://github.com/akash9889Git/github-for-devops-workshop.git
+  132  ls
+  133  clear
+  134  cd github-for-devops-workshop/
+  135  ls
+  136  clear
